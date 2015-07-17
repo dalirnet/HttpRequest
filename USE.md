@@ -7,7 +7,7 @@
 :: POST Method
   
   HttpRequest.PostItem[<string name>] = <string value>;
-  HttpRequest.PostItem[<string name>] = <string value>;\n
+  HttpRequest.PostItem[<string name>] = {string value};
   HttpRequest.Post(<string url>,<bool jsonParse>);
 
 ----------------------------------------------------------------------  
