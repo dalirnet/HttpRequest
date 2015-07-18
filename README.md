@@ -10,4 +10,3 @@ Console.WriteLine(HttpRequest.ResponseString);
 HttpRequest.Get("http://x.x.x.x/file.php",true;
 Console.WriteLine(HttpRequest.Json.status_message);
 ```
-![](ScreenShot.png?raw=true)
