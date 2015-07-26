@@ -14,8 +14,6 @@
 ----------------------------------------------------------------------  
 :: GET Method
   
-  HttpRequest.PostItem[<string name>] = <string value>;
-  HttpRequest.PostItem[<string name>] = <string value>;
   HttpRequest.Get(<string url>,<bool jsonParse>);
  
 ---------------------------------------------------------------------- 
